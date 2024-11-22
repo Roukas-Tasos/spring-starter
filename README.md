@@ -1,2 +1,2 @@
 # spring-starter
-Starter app using Spring Boot framework.
+Starter app using Spring Boot framework!
